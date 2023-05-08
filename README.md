@@ -42,7 +42,7 @@ $ pip install torch
 4. Make sure modules like numpy, matlpotlib are installed.
 
 # Experiments and Results
-Please go through the  [report](https://mediatum.ub.tum.de/1650201) which contains a detailed explanation of ndvi and mndwi indices calculations and the results obtained.
+Please go through the  [report](https://github.com/Pratik-ahirrao/dynamicEarthNet/blob/main/Project_Report.pdf) which contains a detailed explanation of ndvi and mndwi indices calculations and the results obtained.
 
 # References
 [Dask Tutorials](https://www.machinelearningplus.com/python/dask-tutorial/)
