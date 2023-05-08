@@ -41,4 +41,18 @@ $ pip install torch
 ```
 4. Make sure modules like numpy, matlpotlib are installed.
 
+# Experiments and Results
+Please go through the  [report](https://mediatum.ub.tum.de/1650201) which contains a detailed explanation of ndvi and mndwi indices calculations and the results obtained.
+
+# References
+[Dask Tutorials](https://www.machinelearningplus.com/python/dask-tutorial/)
+
+[Dask Arrays](https://earth-env-data-science.github.io/lectures/dask/dask_arrays.html)
+
+[Dask Documentation](https://tutorial.dask.org/00_overview.html)
+
+[Normalized Difference Vegetation Index](https://gisgeography.com/ndvi-normalized-difference-vegetation-index/)
+
+
+
 
