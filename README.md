@@ -1,4 +1,3 @@
-# dynamicEarthNet
 # Problem Statement
 The task is to reduce the computation time of calculating MNDWI and NDVI in-
 dices for satellite images from the DynamicEarthNet Dataset and storing them in
