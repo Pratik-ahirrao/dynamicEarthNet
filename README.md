@@ -23,8 +23,7 @@ $ pip install rasterio
 ```
 2. Dask: Dask is a parallel computing library for Python that enables parallel and
 distributed computing across multiple CPU cores or clusters. It allows users to
-work with large datasets that are too big to fit into memory on a single ma-
-chine, by breaking them into smaller partitions and distributing them across
+work with large datasets that are too big to fit into memory on a single machine, by breaking them into smaller partitions and distributing them across
 multiple processors or machines.
 
 ```sh
